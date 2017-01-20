@@ -24,7 +24,7 @@ Example
 License
 =======
 
-portscan is written by sizeof(cat) <sizeofcat@riseup.net> and released into the Public Domain. Read more in the [LICENSE](LICENSE) file.
+portscan is written by sizeof(cat) <sizeofcat AT riseup DOT net> and released into the Public Domain. Read more in the [LICENSE](LICENSE) file.
 
 Contributing
 ============
